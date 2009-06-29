@@ -1,4 +1,4 @@
 category: Perl
-requires: cygwin perl
+requires: perl
 sdesc: "HTML-TableExtract perl module"
 ldesc: "HTML-TableExtract perl module"
