@@ -1,0 +1,10 @@
+CPAN_AUTHOR=msisk
+inherit perl
+
+NAME="perl-HTML-TableExtract"
+VERSION=2.11
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl HTML table data extraction module"
+DESCRIPTION="HTML::TableExtract is a module that simplifies the extraction of
+information contained in tables within HTML documents."
